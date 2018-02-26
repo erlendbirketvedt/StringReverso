@@ -248,7 +248,7 @@
       <option name="presentableId" value="Default" />
       <updated>1519369220822</updated>
       <workItem from="1519369224326" duration="411000" />
-      <workItem from="1519638344368" duration="6006000" />
+      <workItem from="1519638344368" duration="6071000" />
     </task>
     <task id="LOCAL-00001" summary="Added replace at char method">
       <created>1519644241047</created>
@@ -257,11 +257,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519644241047</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added replace at char method">
+      <created>1519645647731</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1519645647731</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6417000" />
+    <option name="totallyTimeSpent" value="6482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2749" y="270" width="2870" height="1632" extended-state="0" />
